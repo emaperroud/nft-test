@@ -1,0 +1,6 @@
+{
+    "name": "Codigo de acceso",
+    "description": "Codigo de acceso al recital",
+    "image": "https://raw.githubusercontent.com/emaperroud/nft-test/main/qr-codigo%20.png",
+    "atributes": ["data": "este es el primer recital"]
+}
