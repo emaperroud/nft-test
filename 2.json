@@ -1,7 +1,8 @@
 {
-    "name": "Cupon",
+    "name": "TokenLaErudita",
+    "symbol": "TLEA",
     "description": "Cupón de ingreso al recital",
     "image": "https://raw.githubusercontent.com/emaperroud/nft-test/main/cupon.jpeg",
-    "seller_fee_basis_points":900,
+    "seller_fee_basis_points":850,
     "fee_recipient": "0x47A0F7Ba8e5a4BEC0F141610888d9d4cb7f4272F"
 }
