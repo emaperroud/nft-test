@@ -1,7 +1,7 @@
 {
-    "name": "TLEA",
+    "name": "Token La Erudita",
     "symbol": "TLEA",
     "decimals": 18,
     "description": "Token del campo La Erudita",
-    "image": "https://raw.githubusercontent.com/emaperroud/nft-test/main/cupon.jpeg"
+    "image": "https://raw.githubusercontent.com/emaperroud/nft-test/main/campoLaErudita.jpeg"
 }
