@@ -1,7 +1,7 @@
 {
-    "name": "Token La Erudita",
-    "symbol": "TLEA",
-    "decimals": 18,
-    "description": "Token del campo La Erudita",
+    "name": "El Aguariguay",
+    "symbol": "TEA",
+    "decimals": 0,
+    "description": "Token del campo El Aguariguay",
     "image": "https://raw.githubusercontent.com/emaperroud/nft-test/main/campoLaErudita.jpeg"
 }
