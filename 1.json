@@ -1,7 +1,6 @@
 {
-    "name": "Vinilo",
-    "description": "Primer albún de la banda en vinilo..-",
-    "image": "https://raw.githubusercontent.com/emaperroud/nft-test/main/vinilo.jpeg",
-    "seller_fee_basis_points":100,
-    "fee_recipient": "0x47A0F7Ba8e5a4BEC0F141610888d9d4cb7f4272F"
+    "name": "Guinda",
+    "description": "CRÍA DOWLING, JUGÓ 11 TEMPORADAS TODOS LOS ABIERTOS, INDIOS-TORTUGAS, HURLINGHAM Y PALERMO (G. TANOIRA), LA MAYORÍA DE LAS VECES 2 CHUKKERS.",
+    "image": "https://www.criatanoira.com.ar/files/productos/1382968001_guinda3.jpg",
+    "symbol": "CTGU"
 }
